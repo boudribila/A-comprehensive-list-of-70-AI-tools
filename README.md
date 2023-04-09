@@ -4,7 +4,8 @@
 
 This repository is a comprehensive list of 70 powerful AI tools that anyone can explore and benefit from. The list is organized in a table format that makes it easy to compare and contrast features across different tools. Whether you're a developer, data scientist, or simply someone interested in exploring the capabilities of AI, this list has something for you. The repository also welcomes contributions from the community. If you know of any other AI tools that should be included in this list, feel free to add them in the comments section.
 
-# 2️⃣ A comprehensive list of 70 AI tools organized in a table format
+# 2️⃣ A comprehensive list of 70 AI tools
+
 | Name                                      | Description            |   Link    |
 |:-----------------------------------------:|:----------------------:|:---------:|
 | ChatGPT                                   | ChatGPT is an advanced language model that is optimized for dialogue. It can engage in natural language conversations with humans and answer follow-up questions, challenge incorrect assumptions, and reject inappropriate requests. It uses a deep learning algorithm to understand and generate language.            |   [Link](https://chat.openai.com/chat)    |
@@ -77,3 +78,9 @@ This repository is a comprehensive list of 70 powerful AI tools that anyone can 
 | Lumen5                                      | Lumen5 is a video creation platform designed for brands and businesses, making it easier to create high-quality videos for marketing and other purposes.            |   [Link](https://lumen5.com/)    |
 | Jenni                                      | Jenni is an AI-powered writing assistant that helps users improve their writing by providing suggestions for grammar, style, and more.            |   [Link](https://jenni.ai/)    |
 | Quinvio AI                                      | Quinvio AI is a video creation tool that uses AI assistance to help users create videos quickly and easily, without the need for extensive video editing skills.            |   [Link](https://www.quinv.io/ai)    |
+
+# 3️⃣ Contribution
+
+We would love your help in making this repository even better! If you know of an amazing AI tool that isn't listed here, or if you have any suggestions for improvement, feel free to [open an issue](https://github.com/boudribila/AI-Learning-Resources/issues) or [submit a pull request](https://github.com/boudribila/AI-Learning-Resources/pulls).
+
+Together, let's make this the best AI learning hub on GitHub! 🚀
