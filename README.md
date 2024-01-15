@@ -80,6 +80,7 @@ This repository is a comprehensive list of 70 powerful AI tools that anyone can 
 | Jenni                                      | Jenni is an AI-powered writing assistant that helps users improve their writing by providing suggestions for grammar, style, and more.            |   [Link](https://jenni.ai/)    |
 | Quinvio AI                                      | Quinvio AI is a video creation tool that uses AI assistance to help users create videos quickly and easily, without the need for extensive video editing skills.            |   [Link](https://www.quinv.io/ai)    |
 | eBank.nz AI Art Generator                                   | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks.            |   [Link](https://eBank.nz)    |
+| text-generator.io AI Text Generator                                   | Text generator uses Vision language models and web crawlers to automatically understand any links in prompts given. Easy to use and easy to control with an API for developers and special support for autocomplete.            |   [Link](https://text-generator.io)    |
 
 # 3️⃣ Contribution
 
