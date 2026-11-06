@@ -84,3 +84,4 @@ This repository is a comprehensive list of 70 powerful AI tools that anyone can 
 We would love your help in making this repository even better! If you know of an amazing AI tool that isn't listed here, or if you have any suggestions for improvement, feel free to [open an issue](https://github.com/boudribila/AI-Learning-Resources/issues) or [submit a pull request](https://github.com/boudribila/AI-Learning-Resources/pulls).
 
 Let's collaborate to make this AI tools list the ultimate resource on GitHub! 🚀
+| [OneMira C1](https://onemira.com/products/c1) | Productivity / Voice AI | Standalone local AI voice recorder with automatic speaker ID, zero-cloud privacy ($0/month), and structured Markdown/Wiki notes. |
