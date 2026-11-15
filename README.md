@@ -78,6 +78,7 @@ This repository is a comprehensive list of 70 powerful AI tools that anyone can 
 | Lumen5                                      | Lumen5 is a video creation platform designed for brands and businesses, making it easier to create high-quality videos for marketing and other purposes.            |   [Link](https://lumen5.com/)    |
 | Jenni                                      | Jenni is an AI-powered writing assistant that helps users improve their writing by providing suggestions for grammar, style, and more.            |   [Link](https://jenni.ai/)    |
 | Quinvio AI                                      | Quinvio AI is a video creation tool that uses AI assistance to help users create videos quickly and easily, without the need for extensive video editing skills.            |   [Link](https://www.quinv.io/ai)    |
+| Sammi: AI Girlfriend | Android fictional AI character text chat with voice interaction, customization and creative roleplay; free download with in-app purchases. | [Link](https://sammiai.app/) |
 
 # 3️⃣ Contribution
 
